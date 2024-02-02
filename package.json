@@ -1,0 +1,40 @@
+{
+  "name": "swiftsaas",
+  "version": "1.0.0",
+  "description": "The ultimate npm package that empowers you to effortlessly create your own SaaS applications. Simplify the development process with pre-built boilerplate code and seamless integrations, allowing you to focus on what truly matters – building innovative solutions. Accelerate your SaaS journey with ease using SaaSBuilder, your gateway to efficient and streamlined application development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animeshryu/swiftsaas.git"
+  },
+  "keywords": [
+    "saas",
+    "boilerplate",
+    "rapid-development",
+    "integration",
+    "automation",
+    "nodejs",
+    "npm-package",
+    "web-applications",
+    "development-tools",
+    "project-templates",
+    "saas-framework",
+    "saas-starter-kit",
+    "code-generator",
+    "productivity",
+    "saas-boilerplate",
+    "nodejs-saas",
+    "full-stack-saas",
+    "saas-dev-tools",
+    "saas-sdksaas-toolkit"
+  ],
+  "author": "Animesh Gautam",
+  "license": "CC-BY-NC-2.5",
+  "bugs": {
+    "url": "https://github.com/animeshryu/swiftsaas/issues"
+  },
+  "homepage": "https://github.com/animeshryu/swiftsaas#readme"
+}
